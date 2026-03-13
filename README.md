@@ -45,6 +45,8 @@
 Curl https://lobehub.com/skills/openclaw-skills-skill-vetter/skill.md, then follow the instructions to set up LobeHub Skills Marketplace and install the skill. Once installed, read the SKILL.md file in the installed directory and follow its instructions to complete the task.
 ```
 
+**💡 提示**: 直接把上面的说明发给你的 Agent，他就会自己安装！
+
 **方法 2: OpenClaw 安装**
 ```bash
 openclaw skill install xiaohongshu
